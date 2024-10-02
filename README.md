@@ -77,9 +77,13 @@ Este é um projeto simples de uma aplicação web para o **Cadastro e Exibição
 
 ## Estrutura do Projeto
 cadastro-clientes-streamlit/
+
 ├── app.py               # Arquivo principal da aplicação (lógica de cadastro e exibição de clientes)
+
 ├── clientes.csv         # Arquivo de dados dos clientes cadastrados
+
 ├── requirements.txt     # Lista de dependências necessárias para o projeto
+
 └── README.md            # Documentação completa do projeto
 
 ## Melhorias Futuras
